@@ -1,0 +1,1 @@
+This project offers a concise demonstration of essential data structures in C++, covering arrays, linked lists, stacks, queues, trees, heaps, hash tables, and graphs. Each structure includes common operations and algorithms, providing a practical understanding of usage and performance analysis through code examples.
